@@ -8,5 +8,5 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 #3 Enable it through TM
 
 #4 Play Slither.io
+![enter image description here](https://t.gyazo.com/teams/loyalhosting/6713de7b2f817a1754151f3c2291c466.gif)
 
-![enter image description here](http://i.imgur.com/VLarWM9.png)
